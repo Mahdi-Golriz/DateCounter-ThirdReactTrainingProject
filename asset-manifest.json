@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DateCounter-ThirdReactTrainingProject/static/css/main.c857804d.css",
+    "main.js": "/DateCounter-ThirdReactTrainingProject/static/js/main.c2c70b7e.js",
+    "index.html": "/DateCounter-ThirdReactTrainingProject/index.html",
+    "main.c857804d.css.map": "/DateCounter-ThirdReactTrainingProject/static/css/main.c857804d.css.map",
+    "main.c2c70b7e.js.map": "/DateCounter-ThirdReactTrainingProject/static/js/main.c2c70b7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c857804d.css",
+    "static/js/main.c2c70b7e.js"
+  ]
+}

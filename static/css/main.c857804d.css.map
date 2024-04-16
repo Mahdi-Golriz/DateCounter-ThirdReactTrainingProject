@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c857804d.css","mappings":"AAAA,QACE,iBACF,CAEA,QAEE,aAAc,CADd,aAEF","sources":["index.css"],"sourcesContent":[".center {\n  text-align: center;\n}\n\n.margin {\n  margin: 0 auto;\n  display: block;\n}\n"],"names":[],"sourceRoot":""}
